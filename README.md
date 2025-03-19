@@ -39,7 +39,7 @@ Source: [Kaggle - Students Grading Dataset](https://www.kaggle.com/datasets/mahm
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/student-grade-analysis.git
+git clone https://github.com/kzubik/student-grade-analysis.git
 cd student-grade-analysis
 ```
 
@@ -109,4 +109,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- GitHub: [kzubik](https://github.com/kzubik) 
